@@ -1,0 +1,40 @@
+.header_bar {
+    height: 50px;
+    width: 100%;
+}
+
+
+    #name_container {
+        background-color: cyan;
+        height: 100%;
+        width: 100px;
+    }
+
+    .link_container {
+        position: absolute;
+        right: 30px;
+        top: 0;
+        /* height: 100% */
+        height: auto;
+    }
+
+        #link_index {
+            background-color: yellow;
+            /* height: 50px; */
+            /* width: 100px; */
+            /* position: absolute;
+            left: 500px;
+            top: 0px; */
+        }
+
+        #link_1 {
+            background-color: magenta;
+            /* height: 50px; */
+            /* width: 100px; */
+        }
+
+        #link_2 {
+            background-color: greenyellow;
+            /* height: 50px; */
+            /* width: 100px; */
+        }
